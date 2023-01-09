@@ -1,5 +1,6 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=31811f&height=120&section=header"/> 
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=31811f&size=35&center=true&vCenter=true&width=1000&lines=Hey,+my+name+is+Mariana+Matos;I'm+19+years+old+and+I'm+from+São+Paulo,+BR;I+study+Systems+Analysis+and+Development+at+FMU;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
@@ -7,9 +8,9 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmssits&layout=compact&hide_border=true&title_color=59974b&text_color=59974b&bg_color=0d1117" />
 </div>
 
-![Snake animation](https://github.com/mmssits/mmssits/blob/output/github-contribution-grid-snake.svg)
 
 ##
+
 <div align="center">  
 <a href="www.instagram.com/mmssits" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
 <a href="www.linkedin.com/in/mariana-matos-549797249/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a>
