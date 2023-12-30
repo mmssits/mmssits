@@ -1,11 +1,11 @@
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3c5d72&height=120&section=header"/> 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=043807&height=120&section=header"/> 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3c5d72&size=35&center=true&vCenter=true&width=1000&lines=Hey,+my+name+is+Mariana+Matos;I'm+19+years+old+and+I'm+from+São+Paulo,+BR;I+study+Systems+Analysis+and+Development+at+FMU;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=043807&size=35&center=true&vCenter=true&width=1000&lines=Hey,+my+name+is+Mariana+Matos;I'm+19+years+old+and+I'm+from+São+Paulo,+BR;I+study+Systems+Analysis+and+Development+at+FMU;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=mmssits&show_icons=true&count_private=true&hide_border=true&title_color=3c5d72&icon_color=3c5d72&text_color=c9d1d9&bg_color=0d1117" alt="Mariana Matos github stats"/> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmssits&layout=compact&hide_border=true&title_color=3c5d72&text_color=3c5d72&bg_color=0d1117"/>
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=mmssits&show_icons=true&count_private=true&hide_border=true&title_color=043807&icon_color=043807&text_color=c9d1d9&bg_color=0d1117" alt="Mariana Matos github stats"/> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmssits&layout=compact&hide_border=true&title_color=043807&text_color=043807&bg_color=0d1117"/>
 </div>
 
 ##
@@ -31,9 +31,12 @@
 ### Other Knowledge:
 ![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
 ![C](https://img.shields.io/badge/-C-0D1117?style=for-the-badge&logo=c&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![C#](https://img.shields.io/badge/-CSharp-0D1117?style=for-the-badge&logo=csharp&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![C#](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=java&logoColor=1572B6&labelColor=0D1117)&nbsp;
+
   
 ### Studying in this moment:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3c5d72&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=043807&height=120&section=footer"/>
